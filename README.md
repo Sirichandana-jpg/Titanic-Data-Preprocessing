@@ -43,7 +43,7 @@
 ## 🚀 How to Run
 ```bash
 # Clone this repository
-git clone https://github.com/YourUsername/Titanic-Data-Preprocessing.git
+git clone https://github.com/Sirichandana-jpg/Titanic-Data-Preprocessing.git
 
 # Open in VS Code or Jupyter Notebook
-jupyter notebook Titanic_Preprocessing.ipynb
+jupyter notebook elevatelabs1.ipynb
