@@ -1,4 +1,4 @@
-# Titanic-Data-Preprocessing
+# TASK 1: Titanic-Data-Preprocessing
 
 ## 📂 Dataset
 - **Source:** [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
@@ -39,6 +39,46 @@
 - Scikit-learn
 
 ---
+# TASK 2: Exploratory Data Analysis (EDA)
+----------------------------------------
+
+📊 Overview:
+This task performs Exploratory Data Analysis on the Titanic dataset using Pandas, Matplotlib, Seaborn, and Plotly.
+The goal is to understand the dataset, identify patterns, detect outliers, and prepare it for further machine learning tasks.
+
+----------------------------------------
+
+🔹 What’s Included:
+- Loading and exploring the dataset
+- Summary statistics (mean, median, std)
+- Handling missing values
+- Visualizations:
+  - Histograms
+  - Boxplots
+  - Countplots
+  - Correlation heatmap
+  - Pairplot
+  - Interactive Plotly charts
+- Key insights and feature-level observations
+
+----------------------------------------
+
+🛠️ Tools Used:
+- Python 🐍
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+
+----------------------------------------
+
+🔍 Key Insights:
+- Age and Fare columns contain outliers
+- Survival depends strongly on Sex and Pclass
+- Fare is right-skewed
+- Missing values present in Age
+----------------------------------------
+
 
 ## 🚀 How to Run
 ```bash
@@ -47,3 +87,4 @@ git clone https://github.com/Sirichandana-jpg/Titanic-Data-Preprocessing.git
 
 # Open in VS Code or Jupyter Notebook
 jupyter notebook elevatelabs1.ipynb
+
